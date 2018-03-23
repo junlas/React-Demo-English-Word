@@ -1,0 +1,60 @@
+
+
+import React from 'react';
+import ReactDom from 'react-dom';
+import PictureBookCore from './core/PictureBookCore';
+
+import About from './about/About';
+
+import { BrowserRouter, Route } from 'react-router-dom';
+
+//eslint-disable-next-line
+const getConfirmation = () => {
+   window.confirm('Are you sure?')
+};
+
+ReactDom.render((
+    <BrowserRouter basename='/ergret/demo'>
+      <div>
+        <Route path="/" component={PictureBookCore} />
+        <Route path="/about" component={About}/>
+      </div>
+    </BrowserRouter>
+    ),document.getElementById('root')
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import React from 'react';
+import ReactDom from 'react-dom';
+import PictureBookCore from './core/PictureBookCore';
+
+import About from './about/About';
+
+import { Router, Route, Link } from 'react-router';
+    
+ReactDom.render((
+    <Router>
+        <Route path="/" component={PictureBookCore}>
+            <Link to="/about">About</Link>
+        </Route>
+    </Router>
+    ),document.getElementById('root')
+);

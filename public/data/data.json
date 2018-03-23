@@ -1,0 +1,240 @@
+{
+  "server_time": 67209,
+  "time": 1517216478,
+  "logid": 151721647848366140,
+  "traceid": "3JYBo8Wz",
+  "code": 0,
+  "err_msg": "success",
+  "data": {
+    "schedule_data": {
+      "id": "1",
+      "book_id": "1",
+      "name": "",
+      "cover_url": "http://cdn2.primedu.cn/res/wr_book_schedule_covers/5IIgAgkU3dllucIIENw7DwrXw2E97bgO3hqmfVeG.jpg",
+      "main_audio_url": "http://cdn2.primedu.cn/res/wr_book_schedule_audios/ZdRQCBnOZilCAr5TklMONXWs6Nf817oGEKaQX4W1.MP3",
+      "can_experience": "0",
+      "least_commit_count": "3",
+      "weight": "1",
+      "created_at": "2017-10-25 13:39:47",
+      "updated_at": "2017-12-14 11:17:43",
+      "english_words": [
+        {
+          "id": "435",
+          "book_schedule_id": "1",
+          "word": "Aa",
+          "cn_mean": "哎..",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_words/WbnyI68LlvmOPFOHV6YkP5tujwBuGdwHLgU2cYqt.",
+          "main_pic_url0": "http://cdn2.primedu.cn/res/wr_word_pics/1tj8oiPgWQgYEemVdc4BxgukLyNBkyIBvjgkuSqs.png",
+          "main_pic_url1": "http://cdn2.primedu.cn/res/wr_word_pics/RPbwM387phhODkumgoPfQoNaPLkWRZcOkCgZViII.png",
+          "main_pic_url2": "http://cdn2.primedu.cn/res/wr_word_pics/akjxZxS4tA75IVgecl5sjs55CvFkhkLXU1UvAzoa.png",
+          "number_accumulation": "1",
+          "weight": "32",
+          "created_at": "2017-11-23 18:57:28",
+          "updated_at": "2017-12-14 10:46:34"
+        },
+        {
+          "id": "438",
+          "book_schedule_id": "1",
+          "word": "A",
+          "cn_mean": "",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_words/8vSOyhUxN2Xs5caRg5FdLRqH8956e69ul3MOZvKG.mp3",
+          "main_pic_url0": "http://cdn2.primedu.cn/res/wr_word_pics/JL5Odk9nN4yW4TxuxRaDXwsnRfpCjhZLYSxebtjn.png",
+          "main_pic_url1": "http://cdn2.primedu.cn/res/wr_word_pics/ytJH6vN98JUWtmYthW898vjTuMAmy8NUO0GQiyTM.png",
+          "main_pic_url2": "http://cdn2.primedu.cn/res/wr_word_pics/SkNWWLicsaajWMCs5gpqOpf3dz7rVXvvTmhYhvfm.png",
+          "number_accumulation": "1",
+          "weight": "35",
+          "created_at": "2017-11-23 18:59:35",
+          "updated_at": "2017-11-23 19:00:27"
+        },
+        {
+          "id": "1",
+          "book_schedule_id": "1",
+          "word": "a",
+          "cn_mean": "",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_words/BriKqX63fiASF4JjXMiUKA2vXKh92YRAAxeSyAiv.mp3",
+          "main_pic_url0": "http://cdn2.primedu.cn/res/wr_word_pics/m3AiZv0gqpz2Cl4jgA1YmbOythfhFKUpHJEMxp9h.png",
+          "main_pic_url1": "http://cdn2.primedu.cn/res/wr_word_pics/rJ1thM6LkaGTWwnwLztBN84BOaWr2yhL4plutiZv.png",
+          "main_pic_url2": "http://cdn2.primedu.cn/res/wr_word_pics/14Ok8dWHWtStJWshQnoEeF0P4HaG7m3Au6NfGaCy.png",
+          "number_accumulation": "1",
+          "weight": "415",
+          "created_at": "2017-10-25 13:41:08",
+          "updated_at": "2017-11-23 19:01:31"
+        }
+      ],
+      "multiple_choice_questions": [
+        {
+          "id": "1",
+          "book_schedule_id": "1",
+          "main_pic_url": "http://cdn2.primedu.cn/res/wr_option_main_pics/ppjdDrTmJtYFsZA9SlmI1XhF0HYLSiXG8fPK1Dvh.png",
+          "en_sentence": "a, a, ____",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_option_audios/NIIXj3GntU4A2FFquRY94APu2qeP6qLL7VaNouPy.MP3",
+          "cn_mean": "苹果",
+          "options": [
+            {
+              "type": "text",
+              "content": "apple",
+              "is_correct": "1"
+            },
+            {
+              "type": "text",
+              "content": "a",
+              "is_correct": 0
+            },
+            {
+              "type": "text",
+              "content": "ant",
+              "is_correct": 0
+            }
+          ],
+          "weight": "0",
+          "created_at": "2017-10-31 15:36:06",
+          "updated_at": "2017-11-27 12:23:11"
+        },
+        {
+          "id": "88",
+          "book_schedule_id": "1",
+          "main_pic_url": "http://cdn2.primedu.cn/res/wr_option_main_pics/d8AMBtlfrYVWwceTxCktaQymmocLSwdR6ELBJeKh.png",
+          "en_sentence": "___",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_option_audios/wQ4ySncFdt3T9oNlV0m4WhcnvjX44htHbpIL7X7a.mp3",
+          "cn_mean": "",
+          "options": [
+            {
+              "type": "text",
+              "content": "A",
+              "is_correct": "1"
+            },
+            {
+              "type": "text",
+              "content": "apple",
+              "is_correct": 0
+            },
+            {
+              "type": "text",
+              "content": "ant",
+              "is_correct": 0
+            }
+          ],
+          "weight": "0",
+          "created_at": "2017-11-13 17:42:53",
+          "updated_at": "2017-11-23 19:15:27"
+        },
+        {
+          "id": "111",
+          "book_schedule_id": "1",
+          "main_pic_url": "http://cdn2.primedu.cn/res/wr_option_main_pics/iQRikrN44MuKG1VItDP4wmmWD0D15UjyACDIaCzb.png",
+          "en_sentence": "___",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_option_audios/bGemF4W3llGy2avceiEJxQmuOim8raOCiD145QZo.mp3",
+          "cn_mean": "",
+          "options": [
+            {
+              "type": "text",
+              "content": "Aa",
+              "is_correct": "1"
+            },
+            {
+              "type": "text",
+              "content": "Bb",
+              "is_correct": 0
+            },
+            {
+              "type": "text",
+              "content": "Cc",
+              "is_correct": 0
+            }
+          ],
+          "weight": "0",
+          "created_at": "2017-11-23 19:15:16",
+          "updated_at": "2017-11-23 19:17:06"
+        },
+        {
+          "id": "112",
+          "book_schedule_id": "1",
+          "main_pic_url": "http://cdn2.primedu.cn/res/wr_option_main_pics/mm0i5hZNDuK8gW4EEPKGDkKrBNsyEuEBh5D9pN2q.png",
+          "en_sentence": "___",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_option_audios/hcC1hEdlR5qYcvMN0nfJtn6In1vUDbdHsTJvWZSy.mp3",
+          "cn_mean": "",
+          "options": [
+            {
+              "type": "text",
+              "content": "a",
+              "is_correct": "1"
+            },
+            {
+              "type": "text",
+              "content": "A",
+              "is_correct": 0
+            },
+            {
+              "type": "text",
+              "content": "b",
+              "is_correct": 0
+            }
+          ],
+          "weight": "0",
+          "created_at": "2017-11-23 19:16:42",
+          "updated_at": "2017-11-23 19:16:42"
+        },
+        {
+          "id": "113",
+          "book_schedule_id": "1",
+          "main_pic_url": "http://cdn2.primedu.cn/res/wr_option_main_pics/ZYTfyfEZvRydiQpcmwmNYZ26yihRjp5Ougoonw2E.png",
+          "en_sentence": "a, a, ___",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_option_audios/mWClPMclPJPil2dVF5l0pa0bf4lqQ8ZzCyPN88HY.mp3",
+          "cn_mean": "",
+          "options": [
+            {
+              "type": "text",
+              "content": "ant",
+              "is_correct": "1"
+            },
+            {
+              "type": "text",
+              "content": "a",
+              "is_correct": 0
+            },
+            {
+              "type": "text",
+              "content": "apple",
+              "is_correct": 0
+            }
+          ],
+          "weight": "0",
+          "created_at": "2017-11-23 19:20:20",
+          "updated_at": "2017-11-23 19:20:20"
+        }
+      ],
+      "pic_book_pages": [
+        {
+          "id": "181",
+          "book_schedule_id": "1",
+          "main_pic_url": "http://cdn2.primedu.cn/res/wr_picbook_main_pics/spDxUuwxJ7G7rrQnwbZjuWNFiNpfWQ1nme6Fu9UE.png",
+          "en_sentence": "Aa",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_picbooks_audios/zLYnzOhEaurrTa1sW5UBWb2pNwgGRhZlxnEhNbdn.mp3",
+          "cn_explain_audio_url": "",
+          "cn_mean": "Aa",
+          "is_allow_recording": "1",
+          "is_belong_bookshelf": "1",
+          "number_accumulation": "1",
+          "weight": "175",
+          "created_at": "2017-11-23 19:23:40",
+          "updated_at": "2017-12-21 10:54:07"
+        },
+        {
+          "id": "1",
+          "book_schedule_id": "1",
+          "main_pic_url": "http://cdn2.primedu.cn/res/wr_picbook_main_pics/usKszgyLCgBG41qAfZxFCZicCOT3UVpUYcSMAIoA.png",
+          "en_sentence": "a, a, apple",
+          "en_audio_url": "http://cdn2.primedu.cn/res/wr_picbooks_audios/ezwLkWV8fUKCBoohwE3vdvGxFLEsTfqAEfkND9Or.MP3",
+          "cn_explain_audio_url": "",
+          "cn_mean": "苹果",
+          "is_allow_recording": "1",
+          "is_belong_bookshelf": "1",
+          "number_accumulation": "1",
+          "weight": "181",
+          "created_at": "2017-10-31 15:36:50",
+          "updated_at": "2017-12-21 10:54:19"
+        }
+      ]
+    }
+  }
+}
