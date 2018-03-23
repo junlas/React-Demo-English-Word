@@ -3,6 +3,9 @@
 模仿百词斩微信公众号的学单词课程商业课程页面，待续还在完善中。也是我拿来学习React的练手项目。
 
 
+<p align='center'>
+<img src='https://github.com/junlas/React-Demo-English-Word/blob/master/screengif/screen0.gif' width='600' alt='npm start'>
+</p>
 
 
 ----------------------------------------------------------------------------------------------------------------------------
